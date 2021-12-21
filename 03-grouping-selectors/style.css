@@ -1,0 +1,12 @@
+.Left, .Right {
+    font-size: 28px;
+    font-family:'Helvetica', 'Times New Roman', 'snas-serif'; 
+} 
+
+.Left {
+    background-color: black;
+    color: white;
+}
+.Right {
+    background-color: yellow;
+}
